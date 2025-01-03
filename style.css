@@ -1,0 +1,29 @@
+
+:root {
+  --background-color: #121212;
+  --text-color: #f0f0f0;
+  --primary-accent: #bb86fc;
+  --secondary-accent: #03dac5;
+}
+
+/* ...existing code... */
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+/* ...existing code... */
+
+a {
+  color: var(--primary-accent);
+  text-decoration: none;
+}
+a:hover {
+  color: var(--secondary-accent);
+}
+
+/* ...existing code... */
