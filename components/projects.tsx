@@ -13,7 +13,7 @@ export function Projects() {
       title: "Pregnancy Wellness Companion",
       description: "A comprehensive nutritional guidance app for pregnant women, featuring personalized guidelines, exercise timers, food scanner, medical report analysis, digital diary with sentiment analysis, and an AI-powered chatbot.",
       technologies: ["Flutter", "Firebase", "Gemini AI", "Machine Learning"],
-      link: "#",
+      link: "https://github.com/hashil7/Gestacare",
       image: "/images/gestacare/gestacare_logo.png",
       screenshots: [
         "/images/gestacare/login.jpg",
@@ -28,7 +28,7 @@ export function Projects() {
       title: "Smart Parking App",
       description: "Developed a mobile application for finding free parking spots as part of the Smart Parking Project",
       technologies: ["Flutter", "Dart", "Firebase", "Figma"],
-      link: "#",
+      link: "https://github.com/hashil7/Parking-App",
       image: "/images/park_app.jpg",
       screenshots: [
         "/placeholder.svg?height=600&width=800",
@@ -51,7 +51,7 @@ export function Projects() {
       title: "Image Caption Generator using LSTM and CNN",
       description: "Developed a model to generate captions for images and developed an endpint for the model using FastAPI",
       technologies: ["LSTM", "CNN", "VGG16", "FastAPI"],
-      link: "https://github.com/yourusername/image-caption-generator",
+      link: "https://github.com/hashil7/-Image-Caption-Generation",
       image: "/images/capgen.png",
       screenshots: [
         "/placeholder.svg?height=600&width=800",
@@ -63,7 +63,7 @@ export function Projects() {
       title: "Facial Emotion Detection Using CNN",
       description: "Developed a CNN model to detect facial emotions using the FER 2013 dataset",
       technologies: ["CNN", "TensorFlow", "Keras", "OpenCV"],
-      link: "https://github.com/yourusername/facial-emotion-detection",
+      link: "https://github.com/hashil7/Facial-Emotion-Detection",
       image: "/images/fer.png",
       screenshots: [
         "/placeholder.svg?height=600&width=800",
@@ -75,7 +75,7 @@ export function Projects() {
       title: "Photo-to-Painting Style Transfer using CycleGAN",
       description: "Implemented CycleGAN architecture to transform photographs into paintings and vice versa, focusing on Monet's art style for the training dataset.",
       technologies: ["Tensorflow", "Cycle GAN","Deep Learning","Computer Vision"],
-      link: "#",
+      link: "https://github.com/hashil7/Painting-to-Photo-Generation",
       image: "/images/cyclegan.png",
       screenshots: [
         "/placeholder.svg?height=600&width=800"
