@@ -26,8 +26,9 @@ export function Hero() {
         transition={{ duration: 0.8 }}
         className="space-y-6"
       >
+        
         <h1 className="text-4xl font-extrabold tracking-tight sm:text-5xl md:text-6xl lg:text-7xl">
-          Hi, I'm <span className="text-primary">Hashil Muhammed</span>
+          Hi, I&#39;m <span className="text-primary">Hashil Muhammed</span>
         </h1>
         <p className="text-xl sm:text-2xl md:text-3xl text-muted-foreground">
           {text}<span className="animate-blink">|</span>
