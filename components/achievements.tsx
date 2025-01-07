@@ -13,16 +13,13 @@ export function Achievements() {
       title: "Provisional Patent Application",
       description: "Filed a PPA in India and in the US for Dust Collecting Chalkboard Eraser."
     },
-    {
-      title: "Google Cloud Skill Badge",
-      description: "Developed GenAI Apps with Gemini and Streamlit"
-    }
+
   ]
 
   return (
     <section id="achievements" className="container py-24">
       <h2 className="text-3xl font-bold mb-12 text-center">Achievements</h2>
-      <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+      <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-2">
         {achievements.map((achievement, index) => (
           <motion.div
             key={index}
